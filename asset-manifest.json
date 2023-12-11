@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HoneyShop/static/css/main.6673a1a1.css",
+    "main.js": "/HoneyShop/static/js/main.d8c2b34a.js",
+    "static/js/787.d35a868e.chunk.js": "/HoneyShop/static/js/787.d35a868e.chunk.js",
+    "static/media/Honey bee.png": "/HoneyShop/static/media/Honey bee.23e9241e3f615e9f7e24.png",
+    "index.html": "/HoneyShop/index.html",
+    "main.6673a1a1.css.map": "/HoneyShop/static/css/main.6673a1a1.css.map",
+    "main.d8c2b34a.js.map": "/HoneyShop/static/js/main.d8c2b34a.js.map",
+    "787.d35a868e.chunk.js.map": "/HoneyShop/static/js/787.d35a868e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6673a1a1.css",
+    "static/js/main.d8c2b34a.js"
+  ]
+}
